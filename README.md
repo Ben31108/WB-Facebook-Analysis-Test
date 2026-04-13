@@ -1,8 +1,12 @@
-# WB-Facebook-Analysis
+# Machine Learning (Facebook Interaction Prediction)
 
-This project utilizes several Machine Learning and multiple regression models to predict number of Facebook posts for a 'renouned cosmetics brand'.  Specifically the analysis looks at:
+This project applies supervised machine learning techniques to predict user engagement (e.g., interactions) on social media content.
 
-- The best models in terms of predictive ability, looking at metrics such as rootm mean squared error and R-squared
-- Predictive ability on 'new' data using 'learning curves'
-- The best model parameters
-- The best drivers, i.e. the best model features
+The goal is to demonstrate how predictive models can be used to optimize content strategy and improve engagement outcomes.
+
+Key Features:
+• Data preprocessing and feature selection
+• Model training and evaluation
+• Business-oriented interpretation of results
+
+Tools: Python (Scikit-learn, Pandas, Matplotlib)
